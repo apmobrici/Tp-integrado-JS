@@ -1,0 +1,87 @@
+.imgFondo {
+    background-image: url(../assets/img/hawaii.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    background-color: rgb(30, 31, 29);
+    background-blend-mode: soft-light;
+    margin-top: 5em;
+}
+
+.bgm-color{
+    background-color: rgb(52, 55, 63 )!important;
+}
+
+.bgm-lugar{
+    background-color: rgb(52, 55, 63 )!important;
+}
+
+.descripcion {
+    background-color: rgb(214, 179, 21);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+    margin-right: 6px;
+    margin-bottom: 4px;
+    margin-top: 12px;
+}
+
+.descripcionDos {
+    background-color: darkcyan;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    margin-top: 12px;
+}
+
+.descripcionTres {
+    background-color: rgb(52, 55, 63 );
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+    margin-right: 6px;
+    margin-bottom: 4px;
+    margin-top: 12px;
+}
+
+.descripcionCuatro{
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    margin-top: 12px;
+} 
+
+.bgm-SteveBill {
+    background-color: rgb(214, 179, 21);
+    color: black;
+}
+
+.bgm-SteveBillDos {
+    background-color: darkcyan;
+    color: white;
+}
+
+.bgm-Ada {
+    background-color: rgb(52, 55, 63 );
+    color: white;
+}
+
+.bgm-AdaDos {
+    background-color: red;
+    color: white;
+}
+
+.btn-p{
+    background-color: rgb(35, 77, 130 ) !important;
+}
+
+.btn-enviar {
+    background-color: rgb(117, 187, 51) !important;
+}
+
+.containerDos{
+    margin-top: 9rem!important;
+    }
